@@ -1,10 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&multiline=false&repeat=true&width=1000&lines=👋+Hello+World!;I+am+Darshan+Soni;I+am+a+Full+Stack+Developer+and+an+AI+Enthusiast;I+am+a+learner!" alt="Typing Animation">
-</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Darshan-147/Darshan-147/main/gradient-text.svg" alt="Gradient Text">
 </p>
+
 
 
 <p align="center">
